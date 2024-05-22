@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋🏾
 
 - 🤖 I’m currently working on a token ring network
 - 🧠 I’m currently learning data structures
