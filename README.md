@@ -5,6 +5,6 @@
 - 🦾 I’m looking to collaborate on coding projects
 - 🗣 I’m looking for help with graphs and trees
 - 💬 Ask me about inheritance
-- 📫 How to reach me: Nasir11buckets@gmail.com
+- 📫 How to reach me: Nasir11buckets@icloud.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love learning about architecture
